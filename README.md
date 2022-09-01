@@ -1,4 +1,4 @@
 # nuevo_documento
 Nuevo<br>
-x = ("Nuevo projecto")<br>
-print(x)
+nuevo = "Nuevo projecto"<br>
+print(nuevo)
